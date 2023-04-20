@@ -8,5 +8,6 @@ The implementation of the Vision Transformer for MNIST classification uses an im
 | Hidden Size | 128 |
 | Number of Attention Heads | 12 |
 | Number of transformer layers | 12 |
+|--------------|---------------|
 
 While Convolutional Neural Networks (CNNs) have been proven to achieve high accuracy on the MNIST dataset, which consists of 28x28 grayscale images of handwritten digits, it is worth noting that Vision Transformers have shown impressive performance on other image classification tasks, particularly on large-scale datasets where they have outperformed traditional CNNs. Therefore, while it is unlikely that Vision Transformers will significantly outperform CNNs on MNIST due to the dataset's simplicity and small size, it's still an interesting approach to explore.
