@@ -10,6 +10,6 @@ The implementation of the Vision Transformer for MNIST classification uses an im
 While Convolutional Neural Networks (CNNs) have been proven to achieve high accuracy on the MNIST dataset, which consists of 28x28 grayscale images of handwritten digits, it is worth noting that Vision Transformers have shown impressive performance on other image classification tasks, particularly on large-scale datasets where they have outperformed traditional CNNs. **Therefore, while it is unlikely that Vision Transformers will significantly outperform CNNs on MNIST due to the dataset's simplicity and small size, it's still an interesting approach to explore**.
 
 ### Reference
-1. </br> [Image classification with Vision Transformer]( https://keras.io/examples/vision/image_classification_with_vision_transformer/) </br>
-2. </br> [Vision Transformer in Tensorflow](https://dzlab.github.io/notebooks/tensorflow/vision/classification/2021/10/01/vision_transformer.html) </br>
-3. </br> [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) </br>
+1. [Image classification with Vision Transformer]( https://keras.io/examples/vision/image_classification_with_vision_transformer/) </br>
+2. [Vision Transformer in Tensorflow](https://dzlab.github.io/notebooks/tensorflow/vision/classification/2021/10/01/vision_transformer.html) </br>
+3. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) </br>
